@@ -1,0 +1,4 @@
+http://127.0.0.1/
+http://127.0.0.1/home
+http://127.0.0.1/contact
+http://127.0.0.1/about
